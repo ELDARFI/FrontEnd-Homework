@@ -1,0 +1,61 @@
+body{
+    background-color: #2899c3;
+}
+
+.First{
+    
+    height: 100%;
+    
+}
+form{
+    border-radius: 30px;
+    margin: 4 auto; 
+    width: 600px;
+    min-height: 600px;
+    background-color: #0213ff;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    border-radius: 10px;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a, a, a{
+    color: rgb(255, 251, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    color: rgb(229, 255, 0);
+}
+video{
+   width: 650px;
+   height: 500px;
+   border-radius: 30px;
+}
+.submit{
+    color: red;
+}
+p{
+    color: rgb(229, 255, 0);
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    border-radius: 30px;
+}
+
+#Employees{
+    height: 600px;
+    width: 1000px;
+}
+#Home{
+    height: 600px;
+    width: 800px;
+}
+
+#About{
+  margin-left: 270px;
+}
